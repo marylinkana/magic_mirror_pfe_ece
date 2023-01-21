@@ -8,11 +8,11 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Hey there sexy!"],
-			morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
+			anytime: ["Welcome Baudoin!"]
+			/* morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
 			afternoon: ["Hello, beauty!", "You look sexy!", "Looking good today!"],
 			evening: ["Wow, you look hot!", "You look nice!", "Hi, sexy!"],
-			"....-01-01": ["Happy new year!"]
+			"....-01-01": ["Happy new year!"]*/
 		},
 		updateInterval: 30000,
 		remoteFile: null,
@@ -158,7 +158,7 @@ Module.register("compliments", {
 		// split it into parts on newline text
 		const parts = complimentText.split("\n");
 		// create a span to hold the compliment
-		const compliment = document.createElement("span");
+		const compliment = document.createElement("p");
 		// process all the parts of the compliment text
 		for (const part of parts) {
 			if (part !== "") {
