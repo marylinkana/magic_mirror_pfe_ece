@@ -95,7 +95,7 @@ let config = {
         {
           module: 'MMM-SmartTouch',
           position: 'bottom_rigth',    // This can be any of the regions.(bottom-center Recommended)
-          classes: "default",
+          classes: "known",
           config:{
             // None configuration options defined
           }
