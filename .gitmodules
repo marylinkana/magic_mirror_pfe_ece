@@ -4,3 +4,6 @@
 [submodule "MMM-SmartTouch"]
 	path = MMM-SmartTouch
 	url = https://github.com/EbenKouao/MMM-SmartTouch
+[submodule "modules/MMM-GoogleFit"]
+	path = modules/MMM-GoogleFit
+	url = https://github.com/amcolash/MMM-GoogleFit
