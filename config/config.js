@@ -58,7 +58,7 @@ let config = {
 		{
 			module: "weather",
 			position: "top_right",
-			header: "Weather Forecast",
+			header: "METEO",
 			classes: "known",
 			config: {
 				weatherProvider: "openweathermap",
@@ -94,7 +94,7 @@ let config = {
         },*/
         {
           module: 'MMM-SmartTouch',
-          position: 'bottom_rigth',    // This can be any of the regions.(bottom-center Recommended)
+          position: 'bottom_center',    // This can be any of the regions.(bottom-center Recommended)
           classes: "known",
           config:{
             // None configuration options defined
