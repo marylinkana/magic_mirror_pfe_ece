@@ -1,9 +1,9 @@
-[submodule "modules/modules/MMM-Face-Reco-DNN"]
-	path = modules/modules/MMM-Face-Reco-DNN
+[submodule "MMM-Face-Reco-DNN"]
+	path = modules/MMM-Face-Reco-DNN
 	url = https://github.com/nischi/MMM-Face-Reco-DNN
 [submodule "MMM-SmartTouch"]
 	path = MMM-SmartTouch
 	url = https://github.com/EbenKouao/MMM-SmartTouch
-[submodule "modules/MMM-GoogleFit"]
+[submodule "MMM-GoogleFit"]
 	path = modules/MMM-GoogleFit
 	url = https://github.com/amcolash/MMM-GoogleFit
