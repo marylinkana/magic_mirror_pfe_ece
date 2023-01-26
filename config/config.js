@@ -86,10 +86,10 @@ let config = {
 			}
 		},
 		/*{
-		  module: "MMM-Face-Recognition-SMAI",
+		  module: "MMMM-Face-Multi-User-Recognition-SMAI",
 		  position: "top_right",
 		  config: {
-			//prompt: "Put in your own text"
+			useMMMFaceRecoDNN: true
 		  }
         },*/
         {

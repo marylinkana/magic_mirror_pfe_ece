@@ -1,9 +1,12 @@
-[submodule "MMM-Face-Reco-DNN"]
+[submodule "modules/MMM-Face-Reco-DNN"]
 	path = modules/MMM-Face-Reco-DNN
 	url = https://github.com/nischi/MMM-Face-Reco-DNN
-[submodule "MMM-SmartTouch"]
+[submodule "modules/MMM-SmartTouch"]
 	path = modules/MMM-SmartTouch
 	url = https://github.com/EbenKouao/MMM-SmartTouch
-[submodule "MMM-GoogleFit"]
+[submodule "modules/MMM-GoogleFit"]
 	path = modules/MMM-GoogleFit
 	url = https://github.com/amcolash/MMM-GoogleFit
+[submodule "modules/MMM-Face-Multi-User-Recognition-SMAI"]
+	path = modules/MMM-Face-Multi-User-Recognition-SMAI
+	url = https://github.com/jimbydude/MMM-Face-Multi-User-Recognition-SMAI.git
