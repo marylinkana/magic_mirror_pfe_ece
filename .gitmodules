@@ -2,7 +2,7 @@
 	path = modules/MMM-Face-Reco-DNN
 	url = https://github.com/nischi/MMM-Face-Reco-DNN
 [submodule "MMM-SmartTouch"]
-	path = MMM-SmartTouch
+	path = modules/MMM-SmartTouch
 	url = https://github.com/EbenKouao/MMM-SmartTouch
 [submodule "MMM-GoogleFit"]
 	path = modules/MMM-GoogleFit
